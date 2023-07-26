@@ -118,4 +118,5 @@ def main():
 
 
 if __name__ == '__main__':
+    # This is my own version of the project
     best_model = main()
